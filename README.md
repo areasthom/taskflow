@@ -32,7 +32,7 @@ src/
 
 ▶️ Como executar o projeto
 Clone o repositório:
-git clone https://github.com/SEU_USUARIO/taskflow.git
+git clone https://github.com/areasthom/taskflow
 Abra o projeto em uma IDE Java (NetBeans, IntelliJ ou Eclipse)
 Execute a classe Main.java
 📌 Exemplo de uso
