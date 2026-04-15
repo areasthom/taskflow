@@ -12,7 +12,7 @@ O sistema também valida erros e duplicações de tarefas.
 
 ---
 
-## ? Funcionalidades
+## 🧠 Funcionalidades
 
 - Criar tarefas
 - Listar tarefas
@@ -22,7 +22,7 @@ O sistema também valida erros e duplicações de tarefas.
 
 ---
 
-## 🏗️ Estrutura do projeto
+## 💻️ Estrutura do projeto
 
 O projeto segue uma estrutura simples:
 
@@ -56,11 +56,11 @@ O projeto segue uma estrutura simples:
 ## 📌 Exemplo de uso
 
 === TASK FLOW ===
-- 1. Criar tarefa
-- 2. Listar tarefas
-- 3. Concluir tarefa
-- 4. Remover tarefa
-- 0. Sair
+1 - Criar tarefa
+2 - Listar tarefas
+3 - Concluir tarefa
+4 - Remover tarefa
+0 - Sair
 
 ---
 
