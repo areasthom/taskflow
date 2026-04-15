@@ -45,6 +45,7 @@ public class Main
             {
                 System.out.println("Digite o numero da tarefa: ");
                 int index = teclado.nextInt();
+                teclado.nextLine();
                 
                 sistema.marcarComoConcluida(index);           
             }
@@ -52,6 +53,7 @@ public class Main
             {
                 System.out.println("Digite o numero da tarefa: ");
                 int index = teclado.nextInt();
+                teclado.nextLine();
                 
                 sistema.excluirTarefa(index);
             }
