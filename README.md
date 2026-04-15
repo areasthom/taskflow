@@ -1,61 +1,66 @@
 # 🗂️ TaskFlow
 
-TaskFlow é um sistema simples de gerenciamento de tarefas desenvolvido em Java, com foco em praticar Programação Orientada a Objetos (POO), lógica de programação e estruturação de sistemas.
+Sistema simples de gerenciamento de tarefas desenvolvido em Java, com foco em praticar Programação Orientada a Objetos (POO), lógica de programação e estruturação de sistemas.
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Sobre o projeto
 
-Criar tarefas;
-Listar tarefas;
-Marcar tarefas como concluídas;
-Remover tarefas;
-Validação de dados (evita erros e duplicações);
+O TaskFlow é um sistema simples que permite o usuario criar, listar, removar e marcar tarefas como concluidas.
+
+O sistema também valida erros e duplicações de tarefas.
 
 ---
 
-## 🧠 Conceitos praticados
+## ? Funcionalidades
 
-Programação Orientada a Objetos (POO)
-Encapsulamento
-CRUD (Create, Read, Update, Delete)
-Estruturação em camadas (model / controller / app)
-Manipulação de listas (ArrayList)
-Lógica de validação
-Uso de Git e GitHub
+- Criar tarefas
+- Listar tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas
+- Validação de dados (evita erros e duplicações)
 
 ---
 
 ## 🏗️ Estrutura do projeto
 
-src/ 
-└── com/thom/taskflow/ 
-  ├── model 
-  │  └── Tarefa.java 
-  ├── controller 
-  │  └── SistemaTarefas.java 
-  └── app 
-    └── Main.java 
+O projeto segue uma estrutura simples:
+
+- `model` → entidade (Tarefa)
+- `controller` → regras de negócio (SistemaTarefas)
+- `app` → interface do usuário (Main)
+
+---
+
+## 🧠 Conceitos aplicados
+
+- Programação Orientada a Objetos (POO)
+- Encapsulamento
+- CRUD (Create, Read, Update, Delete)
+- Estruturação em camadas (model / controller / app)
+- Manipulação de listas (ArrayList)
+- Lógica de validação
+- Uso de Git e GitHub
 
 ---
 
 ## ▶️ Como executar o projeto
 
-Clone o repositório:
-git clone https://github.com/areasthom/taskflow
-Abra o projeto em uma IDE Java (NetBeans, IntelliJ ou Eclipse)
-Execute a classe Main.java
+- Clone o repositório:
+- git clone https://github.com/areasthom/taskflow
+- Abra o projeto em uma IDE Java (NetBeans, IntelliJ ou Eclipse)
+- Execute a classe Main.java
 
 ---
 
 ## 📌 Exemplo de uso
 
 === TASK FLOW ===
-1 - Criar tarefa
-2 - Listar tarefas
-3 - Concluir tarefa
-4 - Remover tarefa
-0 - Sair
+- 1. Criar tarefa
+- 2. Listar tarefas
+- 3. Concluir tarefa
+- 4. Remover tarefa
+- 0. Sair
 
 ---
 
@@ -65,6 +70,6 @@ Este projeto foi desenvolvido com fins de estudo e prática, visando evoluir hab
 
 ---
 
-## 🚀 Autor
+## 💻 Autor
 
 Desenvolvido por Thomas 🚀
