@@ -1,6 +1,6 @@
 # 🗂️ TaskFlow
 
-Sistema simples de gerenciamento de tarefas desenvolvido em Java, com foco em praticar Programação Orientada a Objetos (POO), lógica de programação e estruturação de sistemas.
+> Sistema simples de gerenciamento de tarefas desenvolvido em Java, com foco em praticar Programação Orientada a Objetos (POO), lógica de programação e estruturação de sistemas.
 
 ---
 
